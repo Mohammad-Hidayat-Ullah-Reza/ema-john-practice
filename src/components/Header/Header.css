@@ -1,0 +1,21 @@
+.header {
+  background-color: blueviolet;
+  padding: 20px 60px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header a {
+  text-decoration: none;
+  color: wheat;
+  font-weight: 500;
+  margin-right: 20px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.header a:hover {
+  background-color: white;
+  color: blueviolet;
+}
